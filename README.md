@@ -10,7 +10,7 @@
 ```
 $ docker-compose up --build -d
 ```
-Подключиться к рабочему контейнеру 'picom_test_web'
+Подключиться к рабочему контейнеру 'picom_test_php'
 ```
 $ docker exec -it picom_test_php sh
 ```
